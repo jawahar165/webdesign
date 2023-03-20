@@ -1,0 +1,20 @@
+body{
+    
+    background: url(https://pngimage.net/wp-content/uploads/2018/05/colibri-vector-png.png) center center fixed no-repeat;
+    background-size: 700px;
+    
+}
+#name{
+    font-family:'Times New Roman', Times, serif;
+}
+#font{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 10px;
+}
+.card:hover{
+    
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
